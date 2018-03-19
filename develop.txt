@@ -2,3 +2,4 @@ begin
 end
 start
 base
+fun
